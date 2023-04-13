@@ -20,3 +20,8 @@ I'm not totally sure if it was a good idea to set it up this way, but Monado use
 ## slam_config_no_gui.toml vs slam_config.toml
 
 I've found that Pangolin randomly segfaults in some OpenGL code, so I typically use the `slam_config_no_gui.toml` file, but it's up to you. They are the same in every other way.
+
+
+## `launch.sh`
+
+You don't have to use this - it's just an example of the environment variables I typically use
