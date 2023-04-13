@@ -3,6 +3,7 @@
   "version": 2,
   "depthaiDevice": {
     "active": true,
+    "upside_down": true,
     "P_imu_to_left_camera_basalt": {
       "position": {"x": -0.0011751100832147559, "y": -0.0719260575262787, "z": -0.007157302024705581}, 
       "orientation": {              
